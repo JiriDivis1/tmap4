@@ -18,6 +18,7 @@ import com.example.tmap04.ui.theme.Tmap04Theme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContentView(R.layout.activity_main)
 
         val app1BTN : Button = findViewById(R.id.app1_button)
