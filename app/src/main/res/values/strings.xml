@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tmap04</string>
+    <string name="title_activity_1">activity1</string>
+    <string name="title_activity_2">activity2</string>
+    <string name="title_activity_3">activity3</string>
+    <string name="form">Formulář</string>
+    <string name="android">Android</string>
+    <string name="spustit_aplikaci">Spustit aplikaci</string>
+    <string name="uvitaci_obrazovka">Uvítací obrazovka</string>
+    <string name="jmeno">Jméno</string>
+    <string name="prijmeni">Příjmení</string>
+    <string name="narozeni">Datum narození</string>
+    <string name="souhlas">Souhlasím s podmínkami</string>
+    <string name="jmeno_nevyplneno">jméno nevyplněno</string>
+    <string name="prijmeni_nevyplneno">příjmení nevyplněno</string>
+    <string name="narozeni_nevyplneno">narození nevyplněno</string>
+    <string name="nesouhlas">nesouhlasil s podmínkami</string>
+</resources>
